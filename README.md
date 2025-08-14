@@ -7,3 +7,5 @@ Mục tiêu chính của dự án:
 - Phân tích và tiền xử lý dữ liệu mạng phục vụ cho IDS.
 - Huấn luyện các mô hình học máy để phân loại lưu lượng bình thường và lưu lượng tấn công.
 - Đánh giá hiệu quả của từng mô hình dựa trên các chỉ số chuẩn.
+
+Vẫn còn đang phát triển...
